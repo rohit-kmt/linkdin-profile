@@ -1,0 +1,23 @@
+body {
+    background-color:#E7F0FF;
+}
+
+h1{
+    color:#1F2933;
+}
+h2{
+    color: #647060;
+}
+
+hr{
+    color: red;
+}
+.next
+{
+    text-align: center;
+    width: 185px;
+    margin-left: 1273px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
