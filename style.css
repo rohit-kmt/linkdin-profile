@@ -12,6 +12,13 @@ h2{
 hr{
     color: red;
 }
+
+.exp
+{   padding: 3px;
+    display: block;
+    border: 5px solid black;
+    width: 297px;
+}
 .next
 {
     text-align: center;
